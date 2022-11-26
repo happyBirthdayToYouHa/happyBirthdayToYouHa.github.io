@@ -695,10 +695,10 @@ h1, h2, span {
   }
   .cake {
     position: relative;
-    top: 250px;
+    top: 280px;
     margin: auto;
     width: 200px;
-    height: 60px;
+    height: 80px;
     background: #f9fdff;
     border-radius: 100%;
     transform: translateZ(100px);
@@ -723,7 +723,7 @@ h1, h2, span {
     position: relative;
     height: 50px;
     width: 12px;
-    top: 280px;
+    top: 180px;
     margin: auto;
     background: linear-gradient(0deg, #b7f4a7 0%, white 100%);
     border-radius: 4px;
